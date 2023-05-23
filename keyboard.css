@@ -1,0 +1,130 @@
+body {
+    padding: 20px;
+    background-color: #515859;
+}
+
+.all td {
+    width: 63px;
+    height: 6vh;
+    padding: 10px;
+    font-size: 19px;
+}
+
+table {
+    border-spacing: 7px 4px;
+    color: #ff0000;
+}
+
+table td {
+    background-color: #000000;
+    border-radius: 7px;
+    box-shadow: 0px 0px 5px #ff0000;
+}
+
+.function td {
+    padding: 5px;
+    width: 65px;
+    height: 4vh;
+    text-align: left;
+    font-size: 14px;
+}
+
+#E {
+    width: 50px;
+}
+
+#backspace {
+    width: 130px;
+    text-align: right;
+}
+
+#tab {
+    width: 65px;
+    padding-left: 30px;
+}
+
+#slesh {
+    width: 75px;
+}
+
+#caps {
+    width: 85px;
+    padding-left: 30px;
+}
+
+#enter {
+    width: 130px;
+    padding-right: 30px;
+    text-align: right;
+}
+
+#shift-left {
+    padding-left: 30px;
+    width: 140px;
+}
+
+#shift-right {
+    width: 170px;
+    padding-right: 30px;
+    text-align: right;
+}
+
+#space {
+    width: 435px;
+}
+
+#cursor {
+    height: 0vh;
+    padding: 0;
+    width: 75px;
+    font-size: 15px;
+}
+
+.end {
+    text-align: center;
+}
+
+.function p {
+    padding: 0;
+    margin: 0;
+    text-align: right;
+    font-size: 13px;
+}
+
+#esc, #del {
+    text-align: center;
+}
+
+.number {
+    font-size: 20px;
+    text-align: center;
+}
+
+.tab p {
+    padding: 0;
+    margin: 0;
+    text-align: right;
+    font-size: 16px;
+}
+
+.caps p {
+    padding: 0;
+    margin: 0;
+    text-align: right;
+    font-size: 16px;
+}
+
+.shift p {
+    padding: 0;
+    margin: 0;
+    text-align: right;
+    font-size: 16px;
+}
+
+table td:hover {
+    background-color: #362e2e;
+    color: #ff0000;
+    /* text-shadow: 0px opx 10px #ff0000; */
+    /* border: 0.1px solid #ff0000; */
+    box-shadow: 0px 0px 10px #ff0000;
+}
